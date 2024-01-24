@@ -3,7 +3,7 @@ para que de bien el servidor deben de crear una cuenta de mongodb
 ya que logic usa mongo para manejar los roles
 debes de crear una cuenta mongodb para usar este archivo la versión
 es de 1.4.155 yo solo lo traduje en español. lo demás pertenece a logic y Rouss
-1-instala el repositorio preparing.sh para instalar las dependencias del servidor
+1-instala el repositorio preparing.sh para ejecutarlo es bash preparing.sh para instalar las dependencias del servidor
 después de instalar las dependencias utilizas estos comandos
 sudo firewall-cmd --permanent --zone=public --add-port=<cualquier_puerto>/udp
 luego sudo firewall-cmd --reload
