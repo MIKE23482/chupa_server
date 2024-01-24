@@ -12,13 +12,18 @@ wget:https://github.com/MIKE23482/chupa_server
 después de instalar las dependencias utilizas estos comandos
 
 sudo firewall-cmd --permanent --zone=public --add-port=<cualquier_puerto>/udp
+
 luego sudo firewall-cmd --reload
 
 2-para que les de bien el servidor instalen los repositorios mongodb
 instalar el repositorio pip
+
 pip install BeautifulSoup
+
 pip install pymongo
+
 luego Entra a tu cuenta de MongoDB tocas
+
 Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón vhttps://github.com/MIKE23482/chupa_serverersion y copia tu cluster
 
 En DB_manager.py ahí pones esto (si sabes crear los roles y si eres experto puedes crear tus propios roles ahi)
