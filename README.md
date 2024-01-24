@@ -39,7 +39,7 @@ borran el # y salen con cntrl+x después di y y luego enter
 
 despues reinician el repositorio service vsftpd restart
 
-y luego ves el estado service vsftpd statuts
+y luego ves el estado service vsftpd status
 
 y si ven all good ya pueden conectarse ala vps
 el puerto es 22 es sftp
