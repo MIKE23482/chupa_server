@@ -24,7 +24,7 @@ pip install pymongo
 
 luego Entra a tu cuenta de MongoDB tocas
 
-Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón vhttps://github.com/MIKE23482/chupa_serverersion y copia tu cluster
+Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón version y copia tu cluster
 
 En DB_manager.py ahí pones esto (si sabes crear los roles y si eres experto puedes crear tus propios roles ahi)
 
