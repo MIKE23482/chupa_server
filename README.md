@@ -4,6 +4,10 @@ ya que logic usa mongo para manejar los roles
 debes de crear una cuenta mongodb para usar este archivo la versión
 es de 1.4.155 yo solo lo traduje en español. lo demás pertenece a logic y Rouss
 
+para descargar el archivo es 
+
+wget:https://github.com/MIKE23482/chupa_server
+
 1-instala el repositorio preparing.sh para ejecutarlo es bash preparing.sh para instalar las dependencias del servidor
 después de instalar las dependencias utilizas estos comandos
 
@@ -15,7 +19,7 @@ instalar el repositorio pip
 pip install BeautifulSoup
 pip install pymongo
 luego Entra a tu cuenta de MongoDB tocas
-Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón version y copia tu cluster
+Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón vhttps://github.com/MIKE23482/chupa_serverersion y copia tu cluster
 
 En DB_manager.py ahí pones esto (si sabes crear los roles y si eres experto puedes crear tus propios roles ahi)
 
