@@ -23,6 +23,10 @@ y para agregar comandos es en chatcmd por si agregaste roles
 
 para agregar tags o prefix es en bspaz.py buscan cod y ahi esta el codigo.
 
+por si quieres cambiar las preguntas es en coinsystem.py
+
+para modificar lo del chat y otras cosas es en bsgame.py, handle.py
+
 mongodb://<user>:<password>@ac-kxbvpk7-shard-00-00.4bfs7fa.mongodb.net:27017,ac-kxbvpk7-shard-00-01.4bfs7fa.mongodb.net:27017,ac-kxbvpk7-shard-00-02.4bfs7fa.mongodb.net:27017/?ssl=true&replicaSet=atlas-njbxzk-shard-0&authSource=admin&retryWrites=true&w=majority
 
 Ojo el <user> y <password> es el usuario y contra en tu cluster que has creado la clave
