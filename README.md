@@ -6,7 +6,7 @@ es de 1.4.155 yo solo lo traduje en español. lo demás pertenece a logic y Rous
 
 para descargar el archivo es 
 
-wget:https://github.com/MIKE23482/chupa_server
+wget https://github.com/MIKE23482/chupa_server
 
 1-instala el repositorio preparing.sh para ejecutarlo es bash preparing.sh para instalar las dependencias del servidor
 después de instalar las dependencias utilizas estos comandos
